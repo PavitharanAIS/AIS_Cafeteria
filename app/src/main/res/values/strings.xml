@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AIS Cafeteria</string>
+    <string name="craving_something_we_re_ready_to_serve">Craving Something? We’re Ready to Serve!</string>
+    <string name="next">Next</string>
+    <string name="login">Login</string>
+    <string name="ais_cafeteria">AIS Cafeteria</string>
+    <string name="login_to_your_account">Login To Your Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_account">Don’t Have Account?</string>
+    <string name="fast_fresh_and_full_of_flavor">Fast, Fresh, and Full of Flavor!</string>
+    <string name="sign_up_here">Sign Up Here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account">Already Have An Account?</string>
+    <string name="don_t_have_an_account">Don\'t Have An Account?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="home">Home</string>
+    <string name="explore_your_favorite_food">Explore Your Favorite Food</string>
+    <string name="_5">$5</string>
+</resources>
